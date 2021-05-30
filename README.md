@@ -6,7 +6,7 @@ MD5, Base64, Hex
 keyword:
 - `md5` 
 - `b64`
-- `eb64`
+- `db64`
 - `hex`
 
 ## [Eudic](/eudic)
