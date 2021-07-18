@@ -29,3 +29,10 @@ Search Google Manve
 
 keyword:
 - `gm`
+
+## [Android Document Search Tool](/android_document_search)
+
+Search API on [developer.android.com](https://developer.android.com/)
+
+keyword:
+- `ads`
